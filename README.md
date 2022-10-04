@@ -6,5 +6,5 @@ EasyComp is a Fullstack Web Application for managing Ciputra University's Compet
 Repository Link: https://github.com/anthonytheon/EasyComp <br>
 Publication: This web application is hosted at [Heroku](http://easycomp.herokuapp.com/)
 <p align="center">
-<img src="images/fumi_1.PNG" width="230"  title="Word Guess">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/fumi_2.PNG" width="230" title="Word Guess">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/fumi_3.PNG" width="226" title="Word Guess">
+<img src="images/easycomp_1.PNG" width="230"  title="Word Guess">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/easycomp_2.PNG" width="230" title="Word Guess">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
