@@ -28,5 +28,5 @@ https://imgur.com/a/MBqXPSL
 Repository Link: https://github.com/anthonytheon/UC-Repository <br>
 Publication: This application was made locally
 
-<img src="Images/ucrepository_1.PNG" width="400">&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/ucrepository_2.PNG" width="400">
+<img src="Images/ucrepository_1.PNG" width="500">&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/ucrepository_2.PNG" width="500">
 
