@@ -44,5 +44,5 @@ Smartphone devices are used to view existing parking slots and lock the parking 
 Repository Link: https://github.com/anthonytheon/SmartParking <br>
 Publication: This hardware / software was made locally
 
-<img src="Images/smartparking_1.png" width="400">&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/smartparking_4.png" width="400">
+<img src="Images/smartparking_1.jpg" width="400">&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/smartparking_4.png" width="400">
 
