@@ -37,6 +37,10 @@ With this smart parking prototype, it can identify available parking slots so th
 
 Smartphone devices are used to view existing parking slots and lock the parking slot desired by drivers who want to park to make it easier for drivers who want to park their vehicles.
 
+[Microcontrollers & Smart Parking Board](https://imgur.com/a/1cduzCv)
+[Smart Parking Schematic](https://imgur.com/a/HsgIZ2A)
+[Smart Parking Fritzing](https://imgur.com/a/kS5k3Zf)
+
 Repository Link: https://github.com/anthonytheon/SmartParking <br>
 Publication: This hardware / software was made locally
 
