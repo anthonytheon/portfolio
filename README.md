@@ -23,7 +23,7 @@ UC Repository is a back-end web application for Ciputra University students to s
 Repository Link: https://github.com/anthonytheon/UC-Repository <br>
 Publication: This application was made locally
 
-<img src="Images/ucrepository_1.PNG" width="500">&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/ucrepository_2.PNG" width="500">
+<img src="Images/ucrepository_1.PNG" width="700">&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/ucrepository_2.PNG" width="500">
 
 # Smart Parking
 Smart Parking is a microcontroller that can be monitored directly offline or online via an existing smartphone device.
@@ -44,5 +44,5 @@ Smartphone devices are used to view existing parking slots and lock the parking 
 Repository Link: https://github.com/anthonytheon/SmartParking <br>
 Publication: This hardware / software was made locally
 
-<img src="Images/smartparking_1.jpg" width="400">&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/smartparking_4.png" width="100">
+<img src="Images/smartparking_1.jpg" width="500">&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/smartparking_4.png" width="200">
 
