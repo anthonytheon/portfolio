@@ -30,3 +30,15 @@ Publication: This application was made locally
 
 <img src="Images/ucrepository_1.PNG" width="500">&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/ucrepository_2.PNG" width="500">
 
+# Smart Parking
+Smart Parking is a microcontroller that can be monitored directly offline or online via an existing smartphone device.
+
+With this smart parking prototype, it can identify available parking slots so that it can provide information to drivers who want to park in a building.
+
+Smartphone devices are used to view existing parking slots and lock the parking slot desired by drivers who want to park to make it easier for drivers who want to park their vehicles.
+
+Repository Link: https://github.com/anthonytheon/SmartParking <br>
+Publication: This hardware / software was made locally
+
+<img src="Images/smartparking_1.PNG" width="400">&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/smartparking_4.PNG" width="400">
+
