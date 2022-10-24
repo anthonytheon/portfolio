@@ -38,6 +38,8 @@ Smartphone devices are used to view existing parking slots and lock the parking 
 <br>
 [Smart Parking Fritzing](https://imgur.com/a/kS5k3Zf)
 <br>
+[Smart Parking's Blynk App Interface](https://imgur.com/a/78PjSTw)
+<br>
 
 Repository Link: https://github.com/anthonytheon/SmartParking <br>
 Publication: This hardware / software was made locally
