@@ -48,3 +48,11 @@ Publication: This hardware / software was made locally
 
 <img src="Images/smartparking_1.jpg" width="500">&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/smartparking_4.png" width="200">
 
+# Diagnostic Test Results
+This project was made to learn more about machine learning during my 6th year of University. This project is an exploratory Data Analysis and Classification Model for Diabetes's Diagnostic Test Results. 
+
+Repository Link: https://github.com/anthonytheon/diagnostic-test-result-machine-learning <br>
+Publication: [Kaggle](https://www.kaggle.com/anthonytheon/diagnostic-test-results-machine-learning)
+
+<img src="Images/kaggle_1.PNG" width="400">&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/kaggle_2.PNG" width="400">
+
