@@ -10,7 +10,6 @@ Publication: This web application is hosted at [Heroku](http://easycomp.herokuap
 
 # UC Repository
 UC Repository is a back-end web application for Ciputra University students to self upload their Final Project. UC Repository was made with Laravel and Tailwind CSS
-
 <br>
 
 [User Manual Guide](https://docs.google.com/document/d/13DJUJlODuopkFKF4S8H3O_zjqQCM-5Ng4nXvNE5vUEI/edit?usp=sharing)
