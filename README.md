@@ -59,6 +59,7 @@ Publication: [Kaggle](https://www.kaggle.com/anthonytheon/diagnostic-test-result
 Lite Games is a "mental health" themed indie RPG game where you can create your own story through dialogue choices in the game. The game features relatively few gameplay mechanics, with the player controlling a character they've made and exploring a narrative.
 
 Repository Link: Not Available
+<br>
 Publication: Not Available
 
 <img src="Images/litegames_1.PNG" width="400">&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/litegames_2.PNG" width="400">
