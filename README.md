@@ -74,7 +74,7 @@ Publication: https://imv.co.id/event
 <img src="Images/event_1.PNG" width="400">&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/event_2.PNG" width="400">
 
 # Indo Mega Vision Reseller
-Indo Mega Vision is a company and a computer hardware manufacturer. Indo Mega Vision held an event in Batam, and the purpose of this event is to promote or advertise their newest and most popular products. One of my projects while I was a software engineer at Indo Mega Vision is to create a website. This website has a form that verify data and register reseller who wants to be a Indo Mega Vision Reseller.
+Indo Mega Vision is a company and a computer hardware manufacturer. One of my projects while I was a software engineer at Indo Mega Vision is to create a website. This website has a form that verifies data and register reseller who wants to be a Indo Mega Vision Reseller.
 
 Repository Link: Not Available
 <br>
